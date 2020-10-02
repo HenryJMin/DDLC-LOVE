@@ -54,3 +54,4 @@
 - **OneLua Team** - [OneLua](http://onelua.x10.mx/)
 - **3141card** - [Lua Player PS3](https://store.brewology.com/ahomebrew.php?brewid=212)
 - **GlowTranslations** - [Spanish translation](https://tinyurl.com/ddlcglow)
+- **부천(rurihana)** - [Korean translation](https://sites.google.com/view/dokidokikor)
