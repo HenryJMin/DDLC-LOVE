@@ -11,6 +11,7 @@
 ## Some notes:
 - (Switch) Only **[Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)** is supported.
 - On the latest versions, DDLC-LOVE is only supported on Nintendo Switch and Sony PS Vita. Support for PSP, PS3, and 3DS has been removed. For these systems, go to [v1.1.8-2](https://github.com/LukeZGD/DDLC-LOVE/releases/tag/v1.1.8-2)
+- Korean translation patch created by 부천(rurihana), [original patch](https://sites.google.com/view/dokidokikor)
 
 ## Usage:
 - **Switch** - Run the `.nro` with [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) title takeover functionality. Other methods can be found [here](https://turtlep.github.io/LovePotion/wiki/#/packaging)
@@ -38,7 +39,7 @@
 
 
 ## Building:
-- Game assets and other stuff are needed to be prepared first from the [DDLC-LOVE-Assets](https://github.com/LukeZGD/DDLC-LOVE-Assets) repo.
+- Game assets and other stuff are needed to be prepared first from the [DDLC-LOVE-Assets](https://github.com/HenryJMin/DDLC-LOVE-Assets) repo.
 - For all Sony devices, [LOVE-WrapLua](https://github.com/LukeZGD/LOVE-WrapLua) and `lv1lua.lua` from DDLC-LOVE-Assets are also required beside the game folder (`script.lua`, `lv1lua.lua`, and the `LOVE-WrapLua` folder)
 <br><br>
 - **Switch** - Run `make nro` for a .nro build; More details in [here](https://turtlep.github.io/LovePotion/wiki/#/packaging)
